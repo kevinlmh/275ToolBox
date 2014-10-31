@@ -1,17 +1,39 @@
 body {
   padding-top: 50px;
 }
+
+/* CSS for template */
 .starter-template {
   padding: 40px 15px;
   text-align: center;
 }
-.ascii-table {
+
+/* CSS for base-converter */
+.base-converter {
   padding: 40px 15px;
   text-align: center;
 }
-.ascii-table ascii-code {
+
+/* CSS code for ascii-table */
+.ascii-table {
+  padding: 20px 15px;
+  text-align: center;
+}
+/*.ascii-code {
 	style="width:200px;
 }
-.ascii-table ascii-short {
+.ascii-short {
 	style="width:40px;
+}*/
+.reg {
+	color: #000;
+	background: #FFF;
+}
+.hov {
+	color: #000;
+	background: #F0F0F0;
+}
+.sel {
+	color: #FFF;
+	background: #000;
 }
