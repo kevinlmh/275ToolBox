@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.ascii-table {
+  padding: 40px 15px;
+  text-align: center;
+}
+.ascii-table ascii-code {
+	style="width:200px;
+}
+.ascii-table ascii-short {
+	style="width:40px;
+}
